@@ -1,0 +1,34 @@
+print("oi nicole")
+a="geovanna"
+print(f"boa tarde {a}")
+b="vamos no"
+print(f"{b} cinema")
+c="quero minha"
+print(f"{c} casa")
+d="kd minha empada, preto?"
+print(d)
+e="programadora"
+print(f"soy mucho {e}")
+f="jamais se esqueça de colocar o bendito"
+print(f"{f} ; no final do programa, caso não queira endoidar")
+g="i o pix?"
+print(f"{g} nada ainda")
+h="q mundo eh esse tão cruel"
+print(f"{h} q a gente vive")
+i="viver dos meus programas, slc"
+print(f"o negocio é {i}")
+j="4"
+print(f"2+2= {j}")
+k=""" ie ie ie infiel,
+ agora ela vai fazer meu papel,
+   daqui um tempo você vai se acostumar
+     e ai vai ser a ela quem vai enganar,
+     você não vai mudaaaar"""
+print(k)
+help = ["capenga", "xoxa", "anemica"]
+print(f"""estou muito {help[0]} , {help [1]} e {help [2]}""")
+oioi= ["pizza" , "coquinha geladinha" , "filmizinho"]
+print(f"""só queria uma {oioi[0]} ,{oioi[1]} e um {oioi[2]}""")
+
+
+
